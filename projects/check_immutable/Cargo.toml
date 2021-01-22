@@ -1,0 +1,5 @@
+[package]
+
+name = "immutable"
+version = "0.0.1"
+authors = [ "yoshiki.osawa <dasoku.leviathan449@gmail.com>" ]
